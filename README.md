@@ -14,4 +14,9 @@ and for RVM, use below commands to install RVM
 2) \curl -sSL https://get.rvm.io | bash -s stable
 3) add the user running rvm group, for example adding vagrant to rvm group --> sudo usermod -aG rvm vagrant
 4) then run this command to add rvm.sh to the path --> source /etc/profile.d/rvm.sh
+example to install perticular version of ruby use below command
+5) rvm install 2.2.3
+6) rvm list
+7) rvm use 2.2.3 // To use the perticular version of ruby.
+checkout rvm --help for all the options.
 
