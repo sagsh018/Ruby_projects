@@ -1,5 +1,10 @@
 # Ruby project
 
+   1) Ruby is an Object Oriented Programming language
+   2) Everything inside Ruby is an object
+   3) and Ruby is interpreted language, that the ruby code is directly interpreted by the ruby interpreter instead of
+        compiling it first as that of a java program.
+
 ## Windows
 To download ruby, use below site
     rubyinstaller.org/downloads

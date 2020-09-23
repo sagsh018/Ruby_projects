@@ -26,7 +26,7 @@ p ["a","b","c","d"] ## This is going tp return the entire array
 # in order to understand the difference between only gets and gets.chomp. consider the below code and try to run it.
 
 # with only gets
-================
+# ================
 puts "Please enter the password"
 password = gets
 p password   # this will return entered password with \n at the end
@@ -37,7 +37,7 @@ else
 end
 
 # with gtes.chomp
-==================
+# ==================
 puts "Please enter the password"
 password = gets.chomp
 p password # this will return entered password without \n at the end
