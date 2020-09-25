@@ -25,3 +25,7 @@ example to install perticular version of ruby use below command
 7) rvm use 2.2.3 // To use the perticular version of ruby.
 checkout rvm --help for all the options.
 
+## irb (Interactive Ruby Program)
+    We can make use of irb software of ruby in order to perform quick calculation and syntax checking through the 
+    command line.
+
